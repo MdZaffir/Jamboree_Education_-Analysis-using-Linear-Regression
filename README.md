@@ -1,0 +1,2 @@
+# Jamboree_Education_-Analysis-using-Linear-Regression
+Project analyzes factors influencing graduate admissions using a dataset provided by Jamboree Edu. By EDA and building a Linear Regression model, the goal is to predict the chances of a student being admitted to an college by using tools as multicollinearity, normality, homoscedasticity, and evaluating performance using  MAE, RMSE, R2, and Adj R2.
